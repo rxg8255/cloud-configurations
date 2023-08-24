@@ -1,6 +1,1 @@
-spring:
-  config:
-    activate:
-      on-profile: dev
-  datasource:
-    samplek: samplev
+samplek: samplev
